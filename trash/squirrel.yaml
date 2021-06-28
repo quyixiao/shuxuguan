@@ -1,0 +1,51 @@
+app_options:
+  com.alfredapp.Alfred:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+    no_inline: true
+  com.blacktree.Quicksilver:
+    ascii_mode: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+  "com.runningwithcrayons.Alfred-2":
+    ascii_mode: true
+  "com.runningwithcrayons.Alfred-3":
+    ascii_mode: true
+  org.vim.MacVim:
+    ascii_mode: true
+    no_inline: true
+chord_duration: 0.1
+config_version: 0.22.custom.3991689306
+customization: 3991689306
+preset_color_schemes:
+  system_blue:
+    author: huangyz0918
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 0
+    candidate_format: "%c %@  "
+    comment_text_color: 0x999999
+    corner_radius: 6
+    font_face: "PingFangSC-Regular,HanaMinB"
+    font_point: 16
+    hilited_candidate_back_color: 0xFFF0E4
+    hilited_candidate_text_color: 0xEE6E00
+    horizontal: true
+    inline_preedit: true
+    label_font_face: "STHeitiSC-Light"
+    name: huangyz0918
+    text_color: 0x424242
+show_notifications_via_notification_center: false
+show_notifications_when: appropriate
+style:
+  border_height: 0
+  border_width: 0
+  color_scheme: system_blue
+  corner_radius: 10
+  font_face: "Lucida Grande"
+  horizontal: false
+  inline_preedit: true
+  line_spacing: 1
+  spacing: 5
+us_keyboard_layout: false

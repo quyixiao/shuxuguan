@@ -1,0 +1,16 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	18
+#@/user_id	d1b2c03e-7ddb-4b91-be3d-a9075c113920
+ce shi 	測試	c=1 d=0.980199 t=18
+e 	額	c=1 d=0.99005 t=18
+ge 	個	c=2 d=1.98012 t=18
+jiu 	就	c=3 d=2.9216 t=18
+qu 	去	c=4 d=3.86311 t=18
+shi 	是	c=2 d=1.94575 t=18
+shu xu guan 	鼠鬚管	c=2 d=1.99501 t=18
+su 	素	c=1 d=0.99005 t=18
+yang 	樣	c=1 d=0.985112 t=18
+zhe 	這	c=1 d=0.980199 t=18
